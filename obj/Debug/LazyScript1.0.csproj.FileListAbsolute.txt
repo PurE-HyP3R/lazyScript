@@ -1,0 +1,7 @@
+D:\Yeovil College\Lvl 3 Computing\LazyScript1.0\LazyScript1.0\bin\Debug\LazyScript1.0.exe.config
+D:\Yeovil College\Lvl 3 Computing\LazyScript1.0\LazyScript1.0\bin\Debug\LazyScript1.0.exe
+D:\Yeovil College\Lvl 3 Computing\LazyScript1.0\LazyScript1.0\bin\Debug\LazyScript1.0.pdb
+D:\Yeovil College\Lvl 3 Computing\LazyScript1.0\LazyScript1.0\obj\Debug\LazyScript1.0.csprojAssemblyReference.cache
+D:\Yeovil College\Lvl 3 Computing\LazyScript1.0\LazyScript1.0\obj\Debug\LazyScript1.0.csproj.CoreCompileInputs.cache
+D:\Yeovil College\Lvl 3 Computing\LazyScript1.0\LazyScript1.0\obj\Debug\LazyScript1.0.exe
+D:\Yeovil College\Lvl 3 Computing\LazyScript1.0\LazyScript1.0\obj\Debug\LazyScript1.0.pdb
